@@ -1,2 +1,9 @@
 # Team4_INFO7374_Spring2021
-This repository contains all the work and submissions for INFO 7374 Algorithmic Digital Marketing by Team 4 (Spring 2021) - Akshay Khandelwal and Jatin Sharma
+
+Lab 3 - Churn Prediction
+
+Link for CodeLab - https://codelabs-preview.appspot.com/?file_id=1ldTF33t1n5QzL0U5t9u9EMTPhWXGhoqzGjh2iTwyols#0
+
+Link for Google Doc - https://docs.google.com/document/d/1ldTF33t1n5QzL0U5t9u9EMTPhWXGhoqzGjh2iTwyols/edit#
+
+Lab Completing Date - 23rd Feb 2021
