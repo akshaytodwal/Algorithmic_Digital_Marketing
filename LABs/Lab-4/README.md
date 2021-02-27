@@ -6,4 +6,4 @@ Link for CodeLab - https://codelabs-preview.appspot.com/?file_id=1ACP8ITKSfqfrkX
 
 Link for Google Doc - https://docs.google.com/document/d/1ACP8ITKSfqfrkXdeZvB3kL6qrq4oxMYaqjYvsZmv8jE/edit#
 
-Lab Completing Date - 24th Feb 2021
+Lab Completion Date - 24th Feb 2021
