@@ -29,4 +29,8 @@ CLAAT Link: https://codelabs-preview.appspot.com/?file_id=1ACP8ITKSfqfrkXdeZvB3k
 **Scraping Tool**
 CLAAT Link: https://codelabs-preview.appspot.com/?file_id=13XiEhx8SZBMdrECR2otqX-Vzvh5qFJp8Ep_uBn5yLVI#0
 
+# Lab-6
+**Streamlit**
+CLAAT Link:  https://codelabs-preview.appspot.com/?file_id=1tL7-xaYnifU39S0X_tmbtORLXwvGaVMKc_sQzYx4-vU#0
+
 
