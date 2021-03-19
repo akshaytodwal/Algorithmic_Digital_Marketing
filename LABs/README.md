@@ -33,4 +33,8 @@ CLAAT Link: https://codelabs-preview.appspot.com/?file_id=13XiEhx8SZBMdrECR2otqX
 **Streamlit**
 CLAAT Link:  https://codelabs-preview.appspot.com/?file_id=1tL7-xaYnifU39S0X_tmbtORLXwvGaVMKc_sQzYx4-vU#0
 
+# Lab-7
+**Customer Life Time Value**
+CLAAT Link: 
+
 
