@@ -35,6 +35,10 @@ CLAAT Link:  https://codelabs-preview.appspot.com/?file_id=1tL7-xaYnifU39S0X_tmb
 
 # Lab-7
 **Customer Life Time Value**
-CLAAT Link: 
+CLAAT Link: https://codelabs-preview.appspot.com/?file_id=1fyG5_w3uxaPkIAJOMyunVaO_LUOqBkzN0Vv1aVMtjLA#0
+
+# Lab-8
+**Latent Semantic Analysis**
+CLAAT Link: https://codelabs-preview.appspot.com/?file_id=16vYuX8cyJ_HQ3-prYmWXkyVRMYgfZL4EkiPyYlF9l1M#2
 
 
