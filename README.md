@@ -15,3 +15,7 @@ This repository contains all the academic submissions for INFO 7374 Algorithmic 
 Part 1: CLAAT Preview: https://codelabs-preview.appspot.com/?file_id=15aZZW2HVcnsGuobgJwGBWDj4Pejv0Va6wQs62ibF4wI#0
 
 Part 2: CLAAT Preview: https://codelabs-preview.appspot.com/?file_id=1C5AYJRTc-tpw2VGMsI26ww2ztRJD2QJonnEkQjiWq0U#0
+
+# Assignment - 2
+
+CLAAT Preview: https://codelabs-preview.appspot.com/?file_id=1cWKcc6KEQZsPP1iyeb0FmeF3TzbIB84_29GE5A4_nxs#0
