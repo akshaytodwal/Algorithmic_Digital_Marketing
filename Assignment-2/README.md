@@ -17,7 +17,7 @@ CLAAT Preview: https://codelabs-preview.appspot.com/?file_id=1cWKcc6KEQZsPP1iyeb
 
 Part 2 Dataset: http://ailab.criteo.com/criteo-attribution-modeling-bidding-dataset/
 
-
+Reference Blog: https://blog.griddynamics.com/cross-channel-marketing-spend-optimization-deep-learning/
 
 Date of submission: 29th March 2021
 
