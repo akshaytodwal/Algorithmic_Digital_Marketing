@@ -41,4 +41,7 @@ CLAAT Link: https://codelabs-preview.appspot.com/?file_id=1fyG5_w3uxaPkIAJOMyunV
 **Latent Semantic Analysis**
 CLAAT Link: https://codelabs-preview.appspot.com/?file_id=16vYuX8cyJ_HQ3-prYmWXkyVRMYgfZL4EkiPyYlF9l1M#2
 
+# Lab-9
+**Visual Search**
+CLAAT Link: https://codelabs-preview.appspot.com/?file_id=1q1iUNb73iDZNxvuA0COW0URTks16GlnS4Xe_y9s5ekE#0
 
