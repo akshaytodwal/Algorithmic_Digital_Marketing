@@ -45,3 +45,10 @@ CLAAT Link: https://codelabs-preview.appspot.com/?file_id=16vYuX8cyJ_HQ3-prYmWXk
 **Visual Search**
 CLAAT Link: https://codelabs-preview.appspot.com/?file_id=1q1iUNb73iDZNxvuA0COW0URTks16GlnS4Xe_y9s5ekE#0
 
+# Lab-10
+**Recommendation System**
+CLAAT Link: https://codelabs-preview.appspot.com/?file_id=1PXlnalq47iAK7GKgP6y5N_MO36OAS8Ozu1Cs97xzit4#0
+
+
+
+
