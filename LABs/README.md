@@ -49,6 +49,12 @@ CLAAT Link: https://codelabs-preview.appspot.com/?file_id=1q1iUNb73iDZNxvuA0COW0
 **Recommendation System**
 CLAAT Link: https://codelabs-preview.appspot.com/?file_id=1PXlnalq47iAK7GKgP6y5N_MO36OAS8Ozu1Cs97xzit4#0
 
+# Lab-11
+**Amazon Personalize**
+CLAAT Link: https://codelabs-preview.appspot.com/?file_id=1EfQDLkb0KtEb4F4qjWLYuRquyZoIzVkKrjP2FnfaOYo#0
+
+
+
 
 
 

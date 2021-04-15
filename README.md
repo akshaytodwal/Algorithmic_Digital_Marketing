@@ -19,3 +19,12 @@ Part 2: CLAAT Preview: https://codelabs-preview.appspot.com/?file_id=1C5AYJRTc-t
 # Assignment - 2
 
 CLAAT Preview: https://codelabs-preview.appspot.com/?file_id=1cWKcc6KEQZsPP1iyeb0FmeF3TzbIB84_29GE5A4_nxs#0
+
+# Assignment - 3
+
+CLAAT Preview: https://codelabs-preview.appspot.com/?file_id=1FrgB5RZHMUKwKjmMqKoGh8lsDJt63JaWL0mCYmKQ0ZA#0
+
+# Final_Project
+
+CLAAT Preview: https://codelabs-preview.appspot.com/?file_id=1o4Uazu1lhOS5G43nxDAWWppC5AJFF6WssD9EBCP80W4#0
+
