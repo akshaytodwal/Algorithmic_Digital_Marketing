@@ -1,6 +1,6 @@
 # Team4_INFO7374_Spring2021
 
-Lab 11 - Amazon Personalize
+Lab 11 - Amazon Personalize Immersion Day
 
 Link for CodeLab CLAAT - https://codelabs-preview.appspot.com/?file_id=1EfQDLkb0KtEb4F4qjWLYuRquyZoIzVkKrjP2FnfaOYo#0
 

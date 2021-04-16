@@ -15,6 +15,8 @@ CLAAT Document: https://docs.google.com/document/d/1FrgB5RZHMUKwKjmMqKoGh8lsDJt6
 
 CLAAT Preview: https://codelabs-preview.appspot.com/?file_id=1FrgB5RZHMUKwKjmMqKoGh8lsDJt63JaWL0mCYmKQ0ZA#0
 
+Dataset Link: https://www.kaggle.com/c/cdiscount-image-classification-challenge
+
 Date of submission: 16th April 2021
 
 
