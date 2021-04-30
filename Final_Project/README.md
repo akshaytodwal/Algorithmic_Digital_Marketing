@@ -1,3 +1,4 @@
+
 # Final_Project 
 
 
@@ -29,7 +30,7 @@ Proposal - CLAAT Document: https://docs.google.com/document/d/1o4Uazu1lhOS5G43nx
 
 # Spotify Marketing Analytics
 
-
+![spotify-logo-1920x1080-2](https://user-images.githubusercontent.com/71520680/116744576-7ec00980-a9c8-11eb-8e08-3f9afa3b9327.jpg)
 
 **Goal**
 
