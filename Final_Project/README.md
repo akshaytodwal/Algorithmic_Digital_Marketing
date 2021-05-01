@@ -19,20 +19,11 @@ Proposal - Codelab Preview: https://codelabs-preview.appspot.com/?file_id=1o4Uaz
 Proposal - CLAAT Document: https://docs.google.com/document/d/1o4Uazu1lhOS5G43nxDAWWppC5AJFF6WssD9EBCP80W4/edit?usp=sharing
 
 
-**Marketing Analytics Dashboard:**
-
-
-**Streamlit Application:**
-
-
-**Demo Video:**
 
 
 # Spotify Marketing Analytics
 
 ![spotify-logo-1920x1080-2](https://user-images.githubusercontent.com/71520680/116744576-7ec00980-a9c8-11eb-8e08-3f9afa3b9327.jpg)
-
-
 
 
 
@@ -43,17 +34,10 @@ Spotify Tracks: https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-
 
 Subscription Sales: https://www.kaggle.com/vijayuv/onlineretail
 
-**Spotipy - Spotify Web API**
+Users' Playlist: Spotipy - Spotify Web API
 
-Users' Playlist:  
 
-## Algorithms
 
-**Google Cloab**
-
-## References
-
-https://spotipy.readthedocs.io/en/2.18.0/
 
 ## Schedule
 
