@@ -121,84 +121,84 @@ if add_selectbox == 'Recommendation System':
 
 
     def get_playlist_edm():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/playlist_EDM.csv')
+        return pd.read_csv('playlist_EDM.csv')
 
 
     def get_playlist_metal():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/playlist_Metal.csv')
+        return pd.read_csv('playlist_Metal.csv')
 
 
     def get_playlist_rock():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/playlist_Rock.csv')
+        return pd.read_csv('playlist_Rock.csv')
 
 
     def get_playlist_english():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/playlist_English_songs.csv')
+        return pd.read_csv('playlist_English_songs.csv')
 
 
     def get_playlist_hindi():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/playlist_Hindi_songs.csv')
+        return pd.read_csv('playlist_Hindi_songs.csv')
 
 
     def get_playlist_pop():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/playlist_Pop.csv')
+        return pd.read_csv('playlist_Pop.csv')
 
 
     def get_playlist_hip_hop():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/playlist_Hip_Hop.csv')
+        return pd.read_csv('playlist_Hip_Hop.csv')
 
 
     def get_playlist_latin():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/playlist_Latin.csv')
+        return pd.read_csv('playlist_Latin.csv')
 
 
     def get_playlist_beatles():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/playlist_Beatles.csv')
+        return pd.read_csv('playlist_Beatles.csv')
 
 
     def get_playlist_mix():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/playlist_Mix.csv')
+        return pd.read_csv('playlist_Mix.csv')
 
 
     def get_playlist_nirvana():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/playlist_Nirvana.csv')
+        return pd.read_csv('playlist_Nirvana.csv')
 
 
     def get_data():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/data.csv')
+        return pd.read_csv('data.csv')
 
     def get_edm():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/edm_top20.csv')
+        return pd.read_csv('edm_top20.csv')
 
     def get_english():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/english_top20.csv')
+        return pd.read_csv('english_top20.csv')
 
     def get_hindi():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/hindi_top20.csv')
+        return pd.read_csv('hindi_top20.csv')
 
     def get_hip_hop():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/hip_hop_top20.csv')
+        return pd.read_csv('hip_hop_top20.csv')
 
     def get_pop():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/pop_top20.csv')
+        return pd.read_csv('pop_top20.csv')
 
     def get_latin():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/latin_top20.csv')
+        return pd.read_csv('latin_top20.csv')
 
     def get_metal():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/metal_top20.csv')
+        return pd.read_csv('metal_top20.csv')
 
     def get_rock():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/rock_top20.csv')
+        return pd.read_csv('rock_top20.csv')
 
     def get_beatles():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/beatles_top20.csv')
+        return pd.read_csv('beatles_top20.csv')
 
     def get_mix():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/mix_top20.csv')
+        return pd.read_csv('mix_top20.csv')
 
     def get_nirvana():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/nirvana_top20.csv')
+        return pd.read_csv('nirvana_top20.csv')
 
 
     def load_data():
@@ -731,16 +731,16 @@ elif add_selectbox == 'Exploratory Data Analysis':
     st.write("-------------------------------------------------------------------------------------------------")
 
     def get_year():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/data_by_year.csv')
+        return pd.read_csv('data_by_year.csv')
 
     def get_w_genre():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/data_w_genres.csv')
+        return pd.read_csv('data_w_genres.csv')
 
     def get_by_genre():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/data_by_genres.csv')
+        return pd.read_csv('data_by_genres.csv')
 
     def get_data():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/data.csv')
+        return pd.read_csv('data.csv')
 
 
     df_year = get_year()
@@ -835,7 +835,7 @@ elif add_selectbox == 'Customer Segmentation using RFM':
     st.write("-------------------------------------------------------------------------------------------------")
 
     def get_rfm():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/rfm_level_ag - Copy.csv')
+        return pd.read_csv('rfm_level_ag - Copy.csv')
 
     rfm = get_rfm()
 
@@ -847,7 +847,7 @@ elif add_selectbox == 'Customer Segmentation using RFM':
     # rfm_new['MonetaryValue'] = rfm['MonetaryValue']
     # rfm_new['MonetaryValue1'] = rfm['MonetaryValue1']
     def get_customers():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/customers.csv')
+        return pd.read_csv('customers.csv')
 
 
 
@@ -911,10 +911,10 @@ if add_selectbox == 'Churn Analysis':
                 )
 
     def get_sales():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/sale.csv')
+        return pd.read_csv('sale.csv')
 
     def get_rfm_segment():
-        return pd.read_csv('C:/Users/jshar/OneDrive/Desktop/ADM_Final_Project/RFM_Segment.csv')
+        return pd.read_csv('RFM_Segment.csv')
 
     sales = get_sales()
     rfm2 = get_rfm_segment()
