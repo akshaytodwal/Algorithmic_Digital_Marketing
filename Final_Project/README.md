@@ -10,6 +10,11 @@
 |001524467 | Jatin Sharma 
 
 
+**Youtube video link:** https://youtu.be/b7JKZ8WV3wI
+
+**Web Application link - Final Demo**: https://share.streamlit.io/akshay-neu/projectspotify/main/recommendation.py
+
+
 **Project - Codelab Preview:** https://codelabs-preview.appspot.com/?file_id=1xpH6o0RwVw7FgCD_rJ7p9FKjMbwfKDHh6rWlpoKju84#0
 
 Project - CLAAT Document: https://docs.google.com/document/d/1xpH6o0RwVw7FgCD_rJ7p9FKjMbwfKDHh6rWlpoKju84/edit?usp=sharing
